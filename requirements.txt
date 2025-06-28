@@ -1,0 +1,7 @@
+pytchat
+openai
+python-dotenv
+pydub
+pyttsx3
+langdetect
+websocket-client
