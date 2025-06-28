@@ -1,5 +1,7 @@
 🎙 YouTube Canlı Sohbet Seslendirici
 
+![ChatSound UI](https://wearetheartmakers.com/img/chatSoundUI.png)
+
 Bu uygulama, YouTube canlı yayın sohbetlerini gerçek zamanlı olarak seslendirmenizi sağlar. macOS say komutuyla birleştirilmiş, ultra modern bir GUI arayüzü üzerinden kolayca kontrol edebilirsiniz.
 
 ⚙️ Özellikler
